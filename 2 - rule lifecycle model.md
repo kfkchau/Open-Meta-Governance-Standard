@@ -503,3 +503,11 @@ Later documents can now:
 - and specify **profiles** for particular domains (such as AI governance, markets, social policy, or infrastructure).
 
 This document’s role is to ensure that when we speak of “the rule lifecycle” in Open Meta-Governance, we are speaking about **this specific, well-defined structure**, and not about an unstated, ad hoc set of steps.
+
+---
+
+© Kelvin Chau, 2025  
+This work is part of the [Open Meta-Governance Standard (DRAFT)](https://github.com/kfkchau/Open-Meta-Governance-Standard/).  
+Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)  
+For attribution, citation, or inquiries, please refer to:  
+🔗 [https://au.linkedin.com/in/kfkchau](https://au.linkedin.com/in/kfkchau)
