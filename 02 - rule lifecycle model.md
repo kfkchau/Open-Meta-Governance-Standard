@@ -1,4 +1,5 @@
-# Open Meta-Governance Standard – Rule Lifecycle Model (DRAFT)
+# Open Meta-Governance Standard – Doc 2  
+**Rule Lifecycle Model (DRAFT)**
 
 ## 1. Purpose
 
