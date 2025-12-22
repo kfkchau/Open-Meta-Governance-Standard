@@ -1,4 +1,6 @@
-# Open Meta-Governance Standard – Concepts and Ontology (DRAFT)
+# Open Meta-Governance Standard – Doc 1  
+**Concepts and Ontology (DRAFT)**
+
 
 ## 1. Purpose
 
