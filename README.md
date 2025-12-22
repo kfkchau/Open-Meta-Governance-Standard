@@ -34,7 +34,7 @@ This umbrella repo keeps the **name alignment** public and routes discussions to
 ---
 
 © Kelvin Chau, 2025  
-This work is part of the [Governance Lifecycle Framework](https://github.com/kfkchau/gov-lifecycle/).  
+This work is part of the [Governance Lifecycle Framework](https://github.com/kfkchau/Open-Meta-Governance-Standard/).  
 Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)  
 For attribution, citation, or inquiries, please refer to:  
 🔗 [https://au.linkedin.com/in/kfkchau](https://au.linkedin.com/in/kfkchau)
