@@ -1,4 +1,5 @@
-# Annex A – Relation to existing work and distinctive features
+# Open Meta-Governance Standard – Doc 0 Annex A  
+**Relation to Existing Work and Distinctive Features (DRAFT)**
 
 > *This annex summarises how OMGS relates to existing governance and policy thinking, and what is distinctive about its approach. It is background material and not required to apply the kernel.*
 
