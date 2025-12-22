@@ -132,4 +132,9 @@ For quick reference, the main distinctive features of OMGS are:
 
 ---
 
-*End of Doc 0 – Intent, Scope, and Design Rationale (DRAFT)*
+© Kelvin Chau, 2025  
+This work is part of the [Open Meta-Governance Standard (DRAFT)](https://github.com/kfkchau/Open-Meta-Governance-Standard/).  
+Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)  
+For attribution, citation, or inquiries, please refer to:  
+🔗 [https://au.linkedin.com/in/kfkchau](https://au.linkedin.com/in/kfkchau)
+
