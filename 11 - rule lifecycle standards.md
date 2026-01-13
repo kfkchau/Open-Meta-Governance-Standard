@@ -1,4 +1,4 @@
-# Open Meta-Governance Standard – Doc 003 (DRAFT)
+# Open Meta-Governance Standard – Doc 11 (DRAFT)
 **Rule Lifecycle Standards: Meta-Requirements**
 
 ---
